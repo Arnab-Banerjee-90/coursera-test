@@ -1,0 +1,56 @@
+body
+{
+	font-family: 'Alegreya', serif;
+	color: white;
+}
+h1
+{
+	margin-bottom: 30px;
+}
+h2
+{
+	text-align: center;
+}
+.navbar-nav li a
+{
+	text-align: center;
+	background: white;
+	color: black;
+}
+.navbar-brand
+{
+	font-size:2em;
+}
+#navbar-content
+{
+	font-size: 1.5em;
+}
+h1
+{
+	color :black;
+}
+.chicken
+{
+	background: black;
+	color: white;
+	height: 1000px;
+}
+
+@media screen and (min-width: 767px)
+{
+	.container
+	{
+		width: 95%;
+		margin: 0 auto;
+		overflow: auto;
+	}
+}
+
+@media screen and (max-width: 767px)
+{
+	.chicken
+	{
+		width: 80%;
+		margin: 0 auto;
+	}
+}
