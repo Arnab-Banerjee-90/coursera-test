@@ -1,0 +1,17 @@
+*{
+	font-family: sans-serif;
+}
+a{
+	text-decoration: none;
+}
+h2{
+	display: inline;
+	color: tomato;
+}
+li{
+	font-size: 1.1em;
+}
+img{
+	height: 500px;
+	width:500px;
+}
