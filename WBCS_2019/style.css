@@ -3,6 +3,7 @@
 }
 a{
 	text-decoration: none;
+	color:steelblue;
 }
 h2{
 	display: inline;
@@ -10,7 +11,7 @@ h2{
 }
 h3{
 	display: inline;
-	color: darkblue;
+	color: #33B2FF;
 }
 li{
 	font-size: 1.1em;
@@ -18,4 +19,7 @@ li{
 img{
 	height: 500px;
 	width:500px;
+}
+details > details{
+	padding-left: 20px;
 }
