@@ -8,6 +8,10 @@ h2{
 	display: inline;
 	color: tomato;
 }
+h3{
+	display: inline;
+	color: darkblue;
+}
 li{
 	font-size: 1.1em;
 }
