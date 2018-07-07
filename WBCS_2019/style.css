@@ -1,31 +1,10 @@
 *{
 	font-family: sans-serif;
 }
-a{
-	text-decoration: none;
-	color:steelblue;
-}
-h2{
-	display: inline;
-	color: tomato;
-}
-h3{
-	display: inline;
-	color: #33B2FF;
-}
-li tr td th em{
-}
-img{
-	height: 500px;
-	width:500px;
-}
-
-details > details{
-	padding-left: 20px;
-}
-em{
-	color: orange; 
-}
 h1{
 	display: inline-block;
+}
+
+h2 h3{
+	display: inline;
 }
