@@ -1,6 +1,12 @@
 *{
 	font-family: sans-serif;
 }
-h1 h2 h3{
+h1{
+	display: inline;
+}
+h2{
+	display: inline;
+}
+h3{
 	display: inline;
 }
